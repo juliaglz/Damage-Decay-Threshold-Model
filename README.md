@@ -19,7 +19,7 @@ Our simulation models a **counting Poisson process**, which represents a series 
 
 Given that our shock rate $\lambda$ is constant at $1$ and does not depend on time, this is a **homogeneous Poisson process**.
 
-## Purpose and Aim
+## Purpose
 
 The primary goal of this project is to simulate and determine:
 
@@ -27,6 +27,7 @@ The primary goal of this project is to simulate and determine:
 2.  **Shocks to Failure**: How many shocks are necessary for this damage threshold to be met.
 
 We investigate how two main factors influence these outcomes: the **damage fading speed** ($\alpha$) and the **system's damage limit** ($C$). Our analysis focuses on scenarios where $0.1 < \alpha$ and $C < 10$.
+![image](https://github.com/user-attachments/assets/f1a9862e-521c-4653-80a3-01e7b8e74a70)
 
 ## Installation and Setup
 
