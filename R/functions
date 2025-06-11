@@ -1,5 +1,3 @@
-# R/functions.R
-
 # Function to calculate the total damage at a given time
 # Args:
 #   times: A numeric vector of times at which shocks occurred.
